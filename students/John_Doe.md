@@ -1,5 +1,5 @@
-# John Doe
+# Siddharth Paurush
 
-## 1st Year, CSE
+## Btech done
 
-## Java, JavaScript
+## C++, JavaScript
